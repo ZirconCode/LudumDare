@@ -7,7 +7,6 @@ Hopefully I'll find the time to do more in the future =)
 
 / ZirconCode
 
-There is only one entry here, so far:
 
 Ludum Dare 21 
 --
